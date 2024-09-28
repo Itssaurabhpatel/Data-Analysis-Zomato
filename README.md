@@ -1,5 +1,3 @@
-# Data-Analysis-Zomato
-
 # Zomato: Data Analysis
 
 This project focuses on analyzing customer order patterns, restaurant ratings, and spending behavior on Zomato. The goal is to derive meaningful insights to help Zomato make informed decisions, improve customer satisfaction, and offer targeted promotions.
